@@ -1,0 +1,837 @@
+GET link?url=ZIIXUcXAENM6iAL...42PSifoQ4HNIAD0TYrXotVq
+	
+302 Moved Temporarily
+,
+baidu.com
+,
+215 B
+,
+180.97.33.108:80
+,
+ 
+26ms
+,
+GET a319794273.html
+,
+200 OK
+,
+shenzhen.baixing.com
+,
+23.0 KB
+,
+211.151.145.10:80
+,
+ 
+234ms
+,
+GET banner-track.1dbb92e4.js
+,
+200 OK
+,
+s.baixing.net
+,
+686 B
+,
+218.92.221.152:80
+,
+ 
+36ms
+,
+GET arrow.php?ppvid=null&pvi...sting9&tk4=fabu_dashou9
+,
+200 OK
+,
+gary.baixing.com
+,
+0 B
+,
+211.151.145.9:80
+,
+ 
+130ms
+,
+GET 78a5ab8062d0291fbdbb9440669123e8.jpg_140x140
+,
+200 OK
+,
+img5.baixing.net
+,
+3.5 KB
+,
+58.222.24.134:80
+,
+ 
+51ms
+,
+GET ad_counter?id=319794273
+,
+200 OK
+,
+shenzhen.baixing.com
+,
+13 B
+,
+211.151.145.10:80
+,
+ 
+54ms
+,
+GET uijs.php?k=%E5%86%99%E5%...01&wadn=0&luki=0&badn=0
+,
+200 OK
+,
+cpro.baidu.com
+,
+3.5 KB
+,
+180.97.33.93:80
+,
+ 
+148ms
+,
+GET 0a548128a5e69a51a9dc2f48bf5fb8c6.jpg_exif
+,
+200 OK
+,
+img4.baixing.net
+,
+607 B
+,
+61.174.63.232:80
+,
+ 
+78ms
+,
+GET collect?v=1&_v=j31&a=341...Ad_Controller&z=4059404
+,
+200 OK
+,
+google-analytics.com
+,
+35 B
+,
+203.208.48.135:80
+,
+ 
+43ms
+,
+GET o.js
+,
+200 OK
+,
+cbjs.baidu.com
+,
+13.0 KB
+,
+58.215.123.49:80
+,
+ 
+33ms
+,
+GET c.js
+,
+304 Not Modified
+,
+cpro.baidustatic.com
+,
+27.1 KB
+,
+58.215.123.34:80
+,
+ 
+39ms
+,
+GET frame#xdm_e=http%3A%2F%2...m_c=default5670&xdm_p=1
+,
+200 OK
+,
+baixing.com
+,
+1.1 KB
+,
+211.151.145.10:80
+,
+ 
+89ms
+,
+GET ecom?di=786047&dcb=BAIDU...dpt=none&coa=&baidu_id=
+,
+200 OK
+,
+cb.baidu.com
+,
+583 B
+,
+180.97.33.96:80
+,
+ 
+343ms
+,
+GET ui?api=config&tu=1562158...allback=bd__cbs__j0w5og
+,
+200 OK
+,
+imageplus.baidu.com
+,
+36 B
+,
+115.239.211.30:80
+,
+ 
+63ms
+,
+GET ZeroClipboard.swf?nocache=1421044310080
+,
+200 OK
+,
+shenzhen.baixing.com
+,
+1.6 KB
+,
+211.151.145.10:80
+,
+ 
+42ms
+,
+GET acom?di=u1495126&dcb=BAI...dpt=none&coa=&baidu_id=
+,
+200 OK
+,
+pos.baidu.com
+,
+571 B
+,
+180.97.33.96:80
+,
+ 
+17ms
+,
+GET acom?di=u1524458&dcb=BAI...dpt=none&coa=&baidu_id=
+,
+200 OK
+,
+pos.baidu.com
+,
+634 B
+,
+180.97.33.96:80
+,
+ 
+22ms
+,
+GET acom?di=u1630113&dcb=BAI...dpt=none&coa=&baidu_id=
+,
+200 OK
+,
+pos.baidu.com
+,
+576 B
+,
+180.97.33.96:80
+,
+ 
+19ms
+,
+GET acom?di=u1314396&dcb=BAI...dpt=none&coa=&baidu_id=
+,
+200 OK
+,
+pos.baidu.com
+,
+579 B
+,
+180.97.33.96:80
+,
+ 
+25ms
+,
+GET ecom?di=800303&dcb=BAIDU...dpt=none&coa=&baidu_id=
+,
+200 OK
+,
+cb.baidu.com
+,
+848 B
+,
+180.97.33.96:80
+,
+ 
+337ms
+,
+GET ui?src=1000&k=%25E9%25BE...allback=bd__cbs__xh0jlc
+,
+200 OK
+,
+imageplus.baidu.com
+,
+7.7 KB
+,
+115.239.211.30:80
+,
+ 
+243ms
+,
+GET acom?adn=3&at=65&aurl=&c...ADSLOT&dc=2&di=u1495126
+,
+200 OK
+,
+pos.baidu.com
+,
+5.7 KB
+,
+180.97.33.96:80
+,
+ 
+203ms
+,
+GET acom?adn=4&at=32&aurl=&c...ADSLOT&dc=2&di=u1630113
+,
+200 OK
+,
+pos.baidu.com
+,
+6.6 KB
+,
+180.97.33.96:80
+,
+ 
+190ms
+,
+GET acom?adn=8&at=231&aurl=&...ADSLOT&dc=2&di=u1524458
+,
+200 OK
+,
+pos.baidu.com
+,
+6.0 KB
+,
+180.97.33.96:80
+,
+ 
+67ms
+,
+GET acom?adn=1&at=6&aurl=&ca...ADSLOT&dc=2&di=u1314396
+,
+200 OK
+,
+pos.baidu.com
+,
+7.4 KB
+,
+180.97.33.96:80
+,
+ 
+179ms
+,
+GET fixed7o.js
+,
+200 OK
+,
+dup.baidustatic.com
+,
+3.2 KB
+,
+58.215.123.49:80
+,
+ 
+26ms
+,
+GET adx.php?c=cz0wYmQ1M2M4NG...PTAAdj0xAGk9NjlmZjJkZmY
+,
+200 OK
+,
+wn.pos.baidu.com
+,
+49 B
+,
+180.97.33.245:80
+,
+ 
+20ms
+,
+GET acom?di=u1494795&dcb=BAI...dpt=none&coa=&baidu_id=
+,
+200 OK
+,
+pos.baidu.com
+,
+575 B
+,
+180.97.33.96:80
+,
+ 
+11ms
+,
+GET adx.php?c=cz0xYmVlNmZkM2...PTAAdj0xAGk9YzE4NzkzYTk
+,
+200 OK
+,
+wn.pos.baidu.com
+,
+49 B
+,
+180.97.33.245:80
+,
+ 
+11ms
+,
+GET adx.php?c=cz1mOWFiODUxZm...ZD0Adj0xAGk9N2M0NWVjYmM
+,
+200 OK
+,
+wn.pos.baidu.com
+,
+49 B
+,
+180.97.33.245:80
+,
+ 
+17ms
+,
+GET adx.php?c=cz1iMzVhYmE0ZT...PTAAdj0xAGk9NDM3OTcyOTE
+,
+200 OK
+,
+wn.pos.baidu.com
+,
+49 B
+,
+180.97.33.245:80
+,
+ 
+17ms
+,
+GET pixel?dspid=6455766&ext_data=
+,
+302 Found
+,
+cm.pos.baidu.com
+,
+0 B
+,
+180.149.133.159:80
+,
+ 
+67ms
+,
+GET adx.php?c=cz1iNDljYzI3Ym...PTAAdj0xAGk9NDMxOWUzNmY
+,
+200 OK
+,
+wn.pos.baidu.com
+,
+49 B
+,
+180.97.33.245:80
+,
+ 
+319ms
+,
+GET chat_show?_pvid=48302599...26inputT%3D3434&userId=
+,
+200 OK
+,
+shenzhen.baixing.com
+,
+1 B
+,
+211.151.145.10:80
+,
+ 
+58ms
+,
+GET chat_show
+,
+200 OK
+,
+shenzhen.baixing.com
+,
+1 B
+,
+211.151.145.10:80
+,
+ 
+96ms
+,
+GET single_flash.app.js?cacheTime=394735
+,
+200 OK
+,
+ecma.bdimg.com
+,
+15.3 KB
+,
+180.97.66.39:80
+,
+ 
+28ms
+,
+GET o.htm?ltr=http%3A%2F%2Fs...%2Fa319794273.html&cf=u
+,
+304 Not Modified
+,
+pos.baidu.com
+,
+1.3 KB
+,
+180.97.33.96:80
+,
+ 
+8ms
+,
+GET acom?adn=3&at=6&aurl=&ca...ADSLOT&dc=2&di=u1494795
+,
+200 OK
+,
+pos.baidu.com
+,
+5.4 KB
+,
+180.97.33.96:80
+,
+ 
+159ms
+,
+GET o.htm?ltr=http%3A%2F%2Fs...%2Fa319794273.html&cf=u
+,
+304 Not Modified
+,
+pos.baidu.com
+,
+1.3 KB
+,
+180.97.33.96:80
+,
+ 
+8ms
+,
+GET o.htm?ltr=http%3A%2F%2Fs...%2Fa319794273.html&cf=u
+,
+304 Not Modified
+,
+pos.baidu.com
+,
+1.3 KB
+,
+180.97.33.96:80
+,
+ 
+8ms
+,
+GET acom?di=u1404012&dcb=BAI...dpt=none&coa=&baidu_id=
+,
+200 OK
+,
+pos.baidu.com
+,
+539 B
+,
+180.97.33.96:80
+,
+ 
+9ms
+,
+GET m?tid=5&&baidu_user_id=a...mp=1421044297&ext_data=
+,
+200 OK
+,
+ckmap.mediav.com
+,
+56 B
+,
+121.12.120.74:80
+,
+ 
+78ms
+,
+GET pa.png
+,
+200 OK
+,
+ecma.bdimg.com
+,
+1.0 KB
+,
+180.97.66.39:80
+,
+ 
+17ms
+,
+GET adx.php?c=cz1hMTdmYTBkYz...PTAAdj0xAGk9NzY3YWZlODg
+,
+200 OK
+,
+wn.pos.baidu.com
+,
+49 B
+,
+180.97.33.245:80
+,
+ 
+9ms
+,
+GET eye.php?t=00000000000000...02;206001&render_id=117
+,
+200 OK
+,
+bzclk.baidu.com
+,
+1 B
+,
+123.125.112.42:80
+,
+ 
+132ms
+,
+GET eye.php?t=00000000000000...ch=0&time=1421044311336
+,
+200 OK
+,
+bzclk.baidu.com
+,
+1 B
+,
+123.125.112.42:80
+,
+ 
+428ms
+,
+GET wh.js
+,
+304 Not Modified
+,
+dup.baidustatic.com
+,
+27.4 KB
+,
+58.215.123.49:80
+,
+ 
+22ms
+,
+GET ac.js
+,
+200 OK
+,
+dup.baidustatic.com
+,
+1.5 KB
+,
+58.215.123.49:80
+,
+ 
+29ms
+,
+GET acom?adn=0&at=231&aurl=&...ADSLOT&dc=2&di=u1404012
+,
+200 OK
+,
+pos.baidu.com
+,
+6.0 KB
+,
+180.97.33.96:80
+,
+ 
+69ms
+,
+GET pixel?dspid=6735593&ext_...IgBAZABvd_c5q0poAGAq4QG
+,
+302 Found
+,
+cm.pos.baidu.com
+,
+0 B
+,
+180.149.133.159:80
+,
+ 
+33ms
+,
+GET adx.php?c=cz0zNzkwNTIwOW...PTAAdj0xAGk9Y2MwMWEyYjE
+,
+200 OK
+,
+wn.pos.baidu.com
+,
+49 B
+,
+180.97.33.245:80
+,
+ 
+10ms
+,
+GET wh.js
+,
+200 OK
+,
+dup.baidustatic.com
+,
+27.4 KB
+,
+58.215.123.49:80
+,
+ 
+39ms
+,
+GET o.htm?ltr=http%3A%2F%2Fs...%2Fa319794273.html&cf=u
+,
+304 Not Modified
+,
+pos.baidu.com
+,
+1.3 KB
+,
+180.97.33.96:80
+,
+ 
+8ms
+,
+GET pixel?dspid=6509290&ext_data=
+,
+302 Found
+,
+cm.pos.baidu.com
+,
+0 B
+,
+180.149.133.159:80
+,
+ 
+32ms
+,
+GET adx.php?c=cz03NmZkMDBlMj...PTAAdj0xAGk9ZTU4ZDliZGM
+,
+200 OK
+,
+wn.pos.baidu.com
+,
+49 B
+,
+180.97.33.245:80
+,
+ 
+11ms
+,
+GET cmb.gif?baidu_user_id=a9...IgBAZABvd_c5q0poAGAq4QG
+,
+200 OK
+,
+dsp.youdao.com
+,
+43 B
+,
+220.181.76.34:80
+,
+ 
+65ms
+,
+GET o.htm?ltr=http%3A%2F%2Fs...ufang%2Fa319794273.html
+,
+304 Not Modified
+,
+pos.baidu.com
+,
+1.3 KB
+,
+180.97.33.96:80
+,
+ 
+8ms
+,
+GET o.htm?ltr=http%3A%2F%2Fs...%2Fa319794273.html&cf=u
+,
+304 Not Modified
+,
+pos.baidu.com
+,
+1.3 KB
+,
+180.97.33.96:80
+,
+ 
+11ms
+,
+GET m?v=9&baidu_user_id=a5c8...mp=1421044298&ext_data=
+,
+200 OK
+,
+cms.gtags.net
+,
+35 B
+,
+221.228.208.39:80
+,
+ 
+28ms
+,
+GET o.htm?ltr=http%3A%2F%2Fs...ufang%2Fa319794273.html
+,
+304 Not Modified
+,
+pos.baidu.com
+,
+1.3 KB
+,
+180.97.33.96:80
+,
+ 
+8ms
+,
+GET o.htm?ltr=http%3A%2F%2Fs...%2Fa319794273.html&cf=u
+,
+304 Not Modified
+,
+pos.baidu.com
+,
+1.3 KB
+,
+180.97.33.96:80
+,
+ 
+11ms
+,
+GET o.htm?ltr=http%3A%2F%2Fw...xH%26inputT%3D3434&cf=u
+,
+304 Not Modified
+,
+cpro.baidu.com
+,
+431 B
+,
+180.97.33.93:80
+,
+ 
+9ms
+,
+GET collect?v=1&_v=j31&a=341..._Controller&z=803457037
+,
+200 OK
+,
+google-analytics.com
+,
+35 B
+,
+203.208.48.135:80
+,
+ 
+105ms
+,
+GET fp.htm?br=3&_=1421044313272
+,
+200 OK
+,
+eclick.baidu.com
+,
+114 B
+,
+180.149.131.35:80
+,
+ 
+391ms
+,
+GET fp.htm?br=3&_=1421044313890
+,
+200 OK
+,
+eclick

@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+
+<project name="wdtool" default="clean" basedir=".">
+	<property name="version" value="2.0.2" />
+	<property name="language" value="cn" />
+	<property name="root.dir" value="${basedir}" />
+	<property name="bin.dir" value="${root.dir}/bin" />
+	<property name="src.dir" value="${root.dir}/src" />
+	<property name="etc.dir" value="${root.dir}/etc" />
+	<property name="lib.dir" value="${root.dir}/lib" />
+	
+	<property name="dist.dir" value="${root.dir}/dist" />
+	<property name="dist.etc.dir" value="${dist.dir}/etc" />
+	<property name="dist.lib.dir" value="${dist.dir}/lib" />
+	<property name="dist.logs.dir" value="${dist.dir}/logs" />
+	
+	<path id="classpath">
+		<fileset dir="${lib.dir}">
+			<include name="*.jar"/>
+		</fileset>
+	</path>
+	
+	<pathconvert property="lib" pathsep=" ">
+		<mapper>
+			<chainedmapper>
+				<flattenmapper />
+				<globmapper from="*" to="lib/*" />
+			</chainedmapper>
+		</mapper>
+		<path refid="classpath"/>
+	</pathconvert>
+	
+	<target name="prepare">
+		<delete dir="${bin.dir}" />
+		<delete dir="${dist.dir}" />
+		<mkdir dir="${bin.dir}" />
+		<mkdir dir="${dist.dir}" />
+		<mkdir dir="${dist.etc.dir}" />
+		<mkdir dir="${dist.logs.dir}" />
+	</target>
+	
+	<target name="compile" depends="prepare">
+		<javac destdir="${bin.dir}" target="1.7" encoding="UTF-8" debug="on" deprecation="off" optimize="off" listfiles="false">
+			<src path="${src.dir}" />
+			<classpath refid="classpath" />
+		</javac>
+		<copy todir="${bin.dir}">
+			<fileset dir="${src.dir}" includes="**/*.xml,**/*.properties,**/*.json" />
+		</copy>
+	</target>
+	
+	
+	
+	<target name="jar" depends="compile">
+		<jar destfile="${dist.dir}/proxy.jar" basedir="${bin.dir}">
+			<manifest>
+				<attribute name="Main-Class" value="com.wd.launcher.Launcher" />
+				<attribute name="Class-Path" value="${lib}" />
+				<attribute name="lang" value="${language}" />
+			</manifest>
+		</jar>
+	</target>
+	
+	<target name="copy" depends="prepare">
+		<copy todir="${dist.lib.dir}">
+			<fileset dir="${lib.dir}" />
+		</copy>
+		<copy file="${etc.dir}/log4j.properties" overwrite="true" tofile="${dist.etc.dir}/log4j.properties" />
+		<copy file="${etc.dir}/db.properties" overwrite="true" tofile="${dist.etc.dir}/db.properties" />
+		<copy file="${etc.dir}/db2.properties" overwrite="true" tofile="${dist.etc.dir}/db2.properties" />
+		<copy file="${etc.dir}/self.properties" overwrite="true" tofile="${dist.etc.dir}/self.properties" />
+		<copy file="${etc.dir}/start.sh" overwrite="true" tofile="${dist.dir}/start.sh" />
+	</target>
+	
+	<target name="clean" depends="jar,copy">
+		<zip destfile="${dist.dir}/wdproxy-${version}.zip" basedir="${dist.dir}" />
+	</target>
+</project>
